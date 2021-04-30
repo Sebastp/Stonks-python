@@ -36,7 +36,7 @@ snowballstemmer==2.0.0
 -e git+https://github.com/Sebastp/Stonks-python@0776fe6efb38c9e7d17a88aab00ed5f718f4a2c1#egg=Stonks
 toml==0.10.0
 typed-ast==1.4.1
-urllib3==1.25.7
+urllib3==1.25.8
 virtualenv==16.7.9
 virtualenv-clone==0.5.3
 wrapt==1.11.2
